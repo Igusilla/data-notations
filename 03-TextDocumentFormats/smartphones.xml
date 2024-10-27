@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="OnePlus" model="8T" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">6.55</screenSize>
+            <batteryCapacity unit="mAh">4500</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="USD">599</price>
+    </smartphone>
 </smartphones>

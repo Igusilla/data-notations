@@ -1,0 +1,10 @@
+[
+    {
+        "cost": 342,
+        "fromCity": "Kraków",
+        "toCity": "Prague",
+        "line": "Leo Express 412",
+        "fast_line": true,
+        "time": 355
+    }
+]

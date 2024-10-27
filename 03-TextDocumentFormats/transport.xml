@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type='truck'>
+        <max_speed unit="km/h">150</max_speed> 
+        <weight unit='kg'>9000</weight>
+        <type>road</type>
+        <color>white</color>
+    </transport>
+    <transport type='pickup'>
+        <max_speed unit="km/h">180</max_speed> 
+        <weight unit='kg'>3000</weight>
+        <type>road</type>
+        <color>black</color>
+    </transport>
+    <transport type='jet'>
+        <max_speed unit="km/h">11000</max_speed> 
+        <weight unit='kg'>1400</weight>
+        <type>air</type>
+        <color>silver</color>
+    </transport>
+</transports>

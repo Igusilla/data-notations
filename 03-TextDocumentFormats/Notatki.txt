@@ -1,0 +1,30 @@
+ord()-sprawdzenie liczby systemowej znaku
+chr()-odwrotność ord
+set()-kolekcja unikalnych elementów
+abs()-zwraca wartość bezwzględną
+bin()-zwraca binarnie integera
+oct()-zwraca w ósemkowym integera
+hex()-zwraca szesnastkowo integera
+float()-wartość rzeczywista
+int()-wartość całkowita
+divmod(a,b)-wypisuje ile dzielenie z resztą a/b
+enumerate()-numeruje obiekty w kolekcji
+filter(function,jakiś zbiór rzeczy(lista/set))-filtruje przez funkcje rzeczy z listy
+help()-wyświetla instrukcje pythona, jak w nawiasie wpiszemy inną funkcje to nam ją tłumaczy
+help(_builtins_)-wypisuje wszystkie wbudowane w pythona rzeczy
+max()-zwraca maksymalną
+min()-zwraca minimalną
+round(liczba, miejsca po przecinku)
+
+"separator".join(lista)-łączy elementy listy 
+
+string.replace(co zmienić, na co zmienić)-wymienia ci wartości
+string.count()-liczy ile jest danej wartości w stringu
+string.casefold()/string.lower()-zmniejsza ci stringa
+string.upper()-zwiększa stringa
+string.swapcases()-zmienia duże na małe i na odwrót
+string.title()-zmienia pierwszą literę każdego słowa na dużą
+string.strip()-usuwa spacje z początku i końca (dodanie l/r przed strip usuwa tylko początkowe/końcowe spacje)
+string.split(separator(automatycznie " "), maksymalna ilość podziału)-tworzy listę z rzeczami podzielonymi tak jak separatory w tekscie (jak się da rsplit to od lewej dzieli, ważne tylko jak zmieniasz maksymalną ilość podziału)
+string.splitlines()-tworzy liste, gdzie każda linia tekstu jest pozycją (linia tekstu w stringu jest oddzielona \n)
+string.center(długość,filler)-centruje ci stringa

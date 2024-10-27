@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "LPP S.A.",
+        "founded": 1991,
+        "headquarters": "Gdanks, Poland",
+        "employees": 25000,
+        "products": [
+            "Casual Wear",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "New Balance",
+        "founded": 1906,
+        "headquarters": "Boston, Massachusets, USA",
+        "employees": 8000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]
